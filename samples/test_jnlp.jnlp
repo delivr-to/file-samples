@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="8.20">
+    <resources>
+        <jar href="https://files.delivrto.me/test_jar.jar" />
+    </resources>
+    <application-desc main-class="delivrto"/>
+</jnlp>

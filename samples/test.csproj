@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+    <PropertyGroup>
+      <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+      <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+      <ProjectGuid>{23613D16-B034-40BF-B30E-8A6948FCED71}</ProjectGuid>
+      <OutputType>Exe</OutputType>
+      <RootNamespace>Delivr.to</RootNamespace>
+      <AssemblyName>Delivr.to</AssemblyName>
+      <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+      <FileAlignment>512</FileAlignment>
+      <Deterministic>true</Deterministic>
+    </PropertyGroup>
+    <ItemGroup>
+      <Reference Include="System" />
+      <Reference Include="System.Core" />
+    </ItemGroup>
+    <ItemGroup>
+      <Compile Include="Program.cs" />
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  </Project>

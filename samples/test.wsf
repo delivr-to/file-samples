@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<job id="delivrto">
+  <script language="VBScript">
+    <![CDATA[
+        WScript.echo "delivr.to wsf test file"
+    ]]>
+  </script>
+</job>

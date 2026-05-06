@@ -1,6 +1,6 @@
 # delivr.to File Type Testing Samples
 
-This repository contains **151 benign file type samples** spanning over **96 unique file extensions**, covering the formats most commonly weaponised by threat actors. No signup, no authentication, no strings attached - clone the repository and start testing.
+This repository contains **151 benign file type samples** spanning over **97 unique file extensions**, covering the formats most commonly weaponised by threat actors. No signup, no authentication, no strings attached - clone the repository and start testing.
 
 ## What's in the Repository
 
@@ -47,6 +47,7 @@ On the [delivr.to](https://delivr.to) platform, security teams can access over 8
 | `test_exe_pif.pif` | A benign pif file that drops and executes a messagebox executable when a pop up is clicked. |
 | `test.cpio` | A benign TXT file in a CPIO archive |
 | `test_msgbox_mdb_2002_2003.mdb` | A benign .mdb Microsoft Access 2002-2003 database with an auto-run macro that spawns a messagebox. |
+| `body_aitm_evilginx_o365.html` | Contains a link to an Evilginx GitHub phishlet. This phishlet will proxy your traffic through a delivr-controlled Evilginx instance and on to the GitHub login portal. This payload is designed to emulate receiving an Evilginx Adversary-in-the-Middle (AiTM) link as part of a GitHub-based lure. Do not enter legitimate credentials. |
 | `test_exe_tar_gz.tar.gz` | A benign executable that shows a message box, contained in a tar.gz archive |
 | `test.zip` | A benign txt file in a zip archive. |
 | `test_mdb_2000.mdb` | A benign .mdb Microsoft Access 2000 database. |
@@ -173,7 +174,7 @@ On the [delivr.to](https://delivr.to) platform, security teams can access over 8
 
 This repository is automatically updated every Sunday at midnight UTC with the latest testing payloads from delivr.to.
 
-**Last updated:** 2026-04-26 01:04 UTC
+**Last updated:** 2026-05-03 01:09 UTC
 
 ## License
 

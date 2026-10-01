@@ -141,7 +141,7 @@ On the [delivr.to](https://delivr.to) platform, security teams can access over 8
 | `test_encrypted_pdf.pdf` | A benign password-protected PDF file. |
 | `test_xls_97_2003.xls` | A benign .xls Microsoft Excel 97-2003 spreadsheet. |
 | `test.reg` | A benign reg file setting the NoLockScreen registry key |
-| `test_application.application` | A benign ClickOne application file that runs a remote test executable on the target system |
+| `test_application.application` | A benign ClickOnce application file that runs a remote test executable on the target system |
 | `test.slk` | An slk file that launches calc.exe |
 | `test_7z.iso` | A benign txt file saved in a 7z file in an iso |
 | `test.exe` | A benign exe file |
@@ -173,7 +173,7 @@ On the [delivr.to](https://delivr.to) platform, security teams can access over 8
 
 This repository is automatically updated every Sunday at midnight UTC with the latest testing payloads from delivr.to.
 
-**Last updated:** 2026-05-31 01:20 UTC
+**Last updated:** 2026-09-27 01:01 UTC
 
 ## License
 

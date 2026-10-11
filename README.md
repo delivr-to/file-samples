@@ -173,7 +173,7 @@ On the [delivr.to](https://delivr.to) platform, security teams can access over 8
 
 This repository is automatically updated every Sunday at midnight UTC with the latest testing payloads from delivr.to.
 
-**Last updated:** 2026-09-27 01:01 UTC
+**Last updated:** 2026-10-11 01:03 UTC
 
 ## License
 
